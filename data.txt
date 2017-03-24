@@ -1,0 +1,20 @@
+Pharmaceuticals/Health Products	3,515,091,778
+Insurance	2,420,777,769
+Electric Utilities	2,183,268,654
+Business Associations	2,015,257,992
+Electronics Mfg & Equip	2,006,622,646
+Oil & Gas	1,900,998,075
+Misc Manufacturing & Distributing	1,552,500,796
+Education	1,514,194,951
+Hospitals/Nursing Homes	1,450,514,056
+Telecom Services	1,410,117,480
+Securities & Investment	1,407,011,840
+Real Estate	1,365,525,210
+Civil Servants/Public Officials	1,328,514,989
+Health Professionals	1,312,333,848
+Air Transport	1,251,399,940
+Misc Issues	999,713,055
+Defense Aerospace	994,671,141
+Automotive	984,213,735
+Health Services/HMOs	983,256,640
+TV/Movies/Music	942,648,229
